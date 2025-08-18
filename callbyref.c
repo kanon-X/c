@@ -10,5 +10,5 @@ int main() {
 
 void square(int *n){
     *n = (*n) * (*n);
-    printf("Square: %d\n", *n); 
+    printf("Square: %d\n", *n);
 }
